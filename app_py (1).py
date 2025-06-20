@@ -16,11 +16,11 @@ import time
 import pandas as pd
 import requests
 
-MODEL_URL = "https://github.com/hemanth0507/Braintumor_App/releases/download/v1.0/brain_tumor_ml.h5"
+MODEL_URL = "https://github.com/Madhu08cse/Braintumor/releases/download/v0.1/brain_tumor_ml.h5"
 MODEL_PATH = "brain_tumor_ml.h5"
 from pathlib import Path
 
-MODEL_URL = "https://github.com/hemanth0507/Braintumor_App/releases/download/v1.0/brain_tumor_ml.h5"
+MODEL_URL = "https://github.com/Madhu08cse/Braintumor/releases/download/v0.1/brain_tumor_ml.h5"
 MODEL_PATH = "brain_tumor_ml.h5"
 
 def download_model(url, path):
